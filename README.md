@@ -36,4 +36,7 @@
 | atoll | Atoll that this island belongs to<br>(Will be the same letters used in [atolls.csv](#atollscsv) `letter_en` column.) |
 | name_dv | Name of the island in Dhivehi |
 | name_en | Name of the island in English |
-| island_code | Island code |
+| island_code | Island code (used in [courts.csv](#courtscsv) `court_code` column) |
+| feature_code | Unique feature code (assigned by [MLSA](https://onemap.mv)) |
+| longitude | Longitude |
+| latitude | Latitude |
