@@ -27,7 +27,12 @@
 | org_code | Organisation code for this court (assigned by President's Office) |
 | court_code | Court code (used in case numbering)* |
 
-\* Older records for Family Court would use the court code "AC" (from its older name އާއިލާއާބެހޭ ކޯޓު).
+\* Older records for the following courts would use different codes, as detailed below:
+
+- Civil Court used the code "MC" (from މަދަނީ ކޯޓު)
+- Criminal Court used the code "JC" (from ޖިނާއީ ކޯޓު)
+- Family Court used the code "AC" (from އާއިލާއާބެހޭ ކޯޓު)
+- Juvenile Court used the code "KC" (from ކުޑަކުދިންނާބެހޭ ކޯޓު)
 
 ## islands.csv
 
